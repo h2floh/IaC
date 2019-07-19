@@ -7,3 +7,4 @@
 
 # .tfvars files
 *.tfvars
+shared/.ssh/id_rsa.pub
